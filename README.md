@@ -4,7 +4,7 @@
 
 Manul QA-engineer. I’m currently working at [Brooma](https://brooma.ru/) on project [Jeffit](https://jeffit.ru/)
 
-:mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@sanler4ik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sanler4ik) [![Gmail Badge](https://img.shields.io/badge/-mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:valvalsan@yandex.ru)
+:mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@sanler4ik-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sanler4ik)
 
 ---
 
