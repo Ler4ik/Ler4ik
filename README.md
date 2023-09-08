@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ---
-### :man_technologist: About me: 
 
 Manul QA-engineer. I’m currently working at [Brooma](https://brooma.ru/) on project [Jeffit](https://jeffit.ru/)
 
