@@ -24,6 +24,7 @@ Manual QA-engineer.
 <img src="https://whatthelogo.com/storage/logos/postman-271799.png" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 <img src="https://secureanycloud.com/wp-content/uploads/sites/33/2016/04/testlink-logo1.png" title="testlink" alt="testlink" width="40" height="40"/>&nbsp;
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-kibana-logo-vector.svg" title="kibana" alt="kibana" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Apache_kafka-icon.svg/2048px-Apache_kafka-icon.svg.png" title="kafka" alt="kafka" width="40" height="40"/>&nbsp;
 </div>
 
 <div>
